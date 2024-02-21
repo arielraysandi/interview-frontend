@@ -10,5 +10,6 @@ Components:
 - rating widget / star rating
 
 ## Notes:
+> Gunakan Vue JS atau Nuxt JS untuk mengerjakan soal test
 > Dilarang menggunakan `third-party` library/package untuk membuat komponen-komponen
 > Tidak dianjurkan menggunakan `Bootstrap` untuk styling CSS
